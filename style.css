@@ -133,3 +133,33 @@ section {
 }
 
 /* end style banner */
+
+/* Start promo section */
+.promo {
+    background-color: #DEF0FF;
+}
+
+.promo .content h2 {
+    font-size: 36px;
+    font-weight: 300;
+    color: #222;
+    text-shadow: 0 1px 2px #222;
+}
+
+.promo .content h2 span.orange {
+    font-weight: 700;
+}
+
+.promo .content p {
+    font-size: 22px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.orange {
+    color: #FF5100;
+}
+
+/* End promo section */
