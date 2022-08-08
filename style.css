@@ -1,0 +1,23 @@
+html {
+    line-height: 1.15;
+}
+
+p {
+    font-size: 18px;
+    margin: 5px 0 10px;
+}
+
+h2 {
+    font-size: 36px;
+    margin: 5px 0 10px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Oxygen', sans-serif;
+    position: relative;
+}
+
+section {
+    padding: 90px 15px;
+}
