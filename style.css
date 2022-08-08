@@ -93,3 +93,43 @@ section {
 .nav-links .active {
     display: block;
 }
+
+/* Banner section */
+
+.banner {
+    padding: 90px 15px;
+    background-color: #923cb5;
+    background-image: linear-gradient(147deg, #923cb5 0%, #000000 74%);
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.banner .banner--content {
+    max-width: 1400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    background: url("./assets/svg/soap.svg");
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: contain;
+}
+
+.banner .banner--content .name {
+    text-transform: uppercase;
+}
+
+.banner .banner--content .designation {
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    margin: 0;
+}
+
+.banner .banner--content .tagline {
+    font-size: 18px;
+}
+
+/* end style banner */
